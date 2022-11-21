@@ -2,6 +2,10 @@
     <img src=".github/Logo_main_black.png" width="300">
 </div>
 
+
+# polilya_12 subscribe :3
+
+
 -----------------
 
 | **Build Type**   |`Linux`           |`MacOS`           |`Windows`         |
